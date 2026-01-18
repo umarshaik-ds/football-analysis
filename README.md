@@ -1,7 +1,11 @@
 # FIFA 2022 World Cup Data Analysis
 ## Project Description
 This repository contains a Power BI project focused on the FIFA 2022 World Cup. The project demonstrates a full data analysis workflow: from connecting to raw data and performing complex ETL (Extract, Transform, Load) tasks to designing an interactive dashboard that provides insights into team statistics and match outcomes.
+
+
 ![](https://github.com/umarshaik-ds/football-analysis/blob/main/fifa-world-cup-2022-logo-png_seeklogo-389149.webp)
+
+
 ## Dataset Information
 The dataset includes comprehensive statistics from the FIFA 2022 tournament, covering: 
 
