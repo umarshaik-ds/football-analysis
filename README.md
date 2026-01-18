@@ -36,7 +36,7 @@ I developed custom DAX measures for key performance indicators (KPIs) like Total
 ## Dashboard Visualizations
 The report focuses on three high-impact visuals to tell the story of the tournament:
 
-![](h)
+![](https://github.com/umarshaik-ds/football-analysis/blob/main/fb.png)
 
 ### 1. Team Scoring Efficiency (Bar Chart)
 A comparison of goals scored versus total shots. This visual highlights which teams were the most clinical in front of the goal.
@@ -51,6 +51,8 @@ A breakdown of team conduct, tracking yellow and red cards. It identifies the mo
 ## Power BI Desktop: 
 For data modeling and visualization.
 
-# Power Query: For data cleaning and transformation.
+# Power Query:
+For data cleaning and transformation.
 
-# DAX: For advanced data calculations.
+# DAX:
+For advanced data calculations.
