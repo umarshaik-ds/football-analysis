@@ -1,9 +1,9 @@
 # FIFA 2022 World Cup Data Analysis
 ## Project Description
 This repository contains a Power BI project focused on the FIFA 2022 World Cup. The project demonstrates a full data analysis workflow: from connecting to raw data and performing complex ETL (Extract, Transform, Load) tasks to designing an interactive dashboard that provides insights into team statistics and match outcomes.
-
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 ## Dataset Information
-The dataset includes comprehensive statistics from the FIFA 2022 tournament, covering:
+The dataset includes comprehensive statistics from the FIFA 2022 tournament, covering: 
 
 Match Details: Scores, dates, and venues.
 
@@ -35,6 +35,8 @@ I developed custom DAX measures for key performance indicators (KPIs) like Total
 
 ## Dashboard Visualizations
 The report focuses on three high-impact visuals to tell the story of the tournament:
+
+![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
 
 ### 1. Team Scoring Efficiency (Bar Chart)
 A comparison of goals scored versus total shots. This visual highlights which teams were the most clinical in front of the goal.
